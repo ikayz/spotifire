@@ -5,6 +5,28 @@ header {
     padding: 40px;
 }
 
+footer {
+    background-image: linear-gradient(to right, #b23000, #ffa27f);
+    padding: 20px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+/* aside {
+    border: 2px solid #069;
+    padding: 5px;
+    background: #333;
+    float: left;
+    width: 300px;
+    height: 600px;
+    margin-bottom: 20%;
+}
+
+main {
+    margin-top: 20px;
+    margin-bottom: 700px;
+} */
+
 ul {
     list-style-type: none;
     margin: 0;

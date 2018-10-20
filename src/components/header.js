@@ -5,7 +5,7 @@ class Header extends Component {
     return (
       <div>
       <header></header>
-      <nav>
+        <nav>
           <ul>
             <li><a class="active" href="#home">Home</a></li>
             <li><a href="#firewatch">Fire Watch</a></li>
@@ -14,7 +14,7 @@ class Header extends Component {
             <li><a href="#tips">Tips</a></li>
           </ul>
         </nav>
-        </div>
+      </div>
     );
   }
 }
