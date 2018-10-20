@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 
-class Footer extends Component {
+class Register extends Component {
   render() {
     return (
       <footer>

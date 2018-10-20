@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import { Button } from 'reactstrap';
 
 class Header extends Component {
   render() {
@@ -11,6 +12,7 @@ class Header extends Component {
             <li><a href="#firewatch">Fire Watch</a></li>
             <li><a href="#reports">Reports</a></li>
             <li><a href="#alerts">Alerts</a></li>
+            <li><a href="#community">Community</a></li>
             <li><a href="#tips">Tips</a></li>
           </ul>
         </nav>
